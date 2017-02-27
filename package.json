@@ -1,0 +1,25 @@
+{
+  "name": "pubsub",
+  "version": "1.0.0",
+  "description": "node.js stranger-badges pubsub server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stranger",
+    "things",
+    "badges"
+  ],
+  "author": "vidyasagar",
+  "license": "MIT",
+  "dependencies": {
+    "axon": "^2.0.3",
+    "express": "^3.0.0",
+    "redis": "^2.6.5",
+    "underscore": "^1.8.3"
+  },
+  "engines": {
+    "node": "5.9.1"
+  }
+}
